@@ -1,1 +1,0 @@
-# Calculating Allan noise characteristics
